@@ -13,6 +13,12 @@
 - 🎯 Learning step by step and dreaming big — one day I hope to study at the University of Melbourne and create my very own AI projects 💻✨  
 - 📷 I love photography, art, cultural creativity, and coming up with weird-but-fun ideas that probably shouldn’t work… but somehow do 😆  
 
+
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" />
+</div>
+
 ---
 
 ### 🚀 What I'm Learning / 最近在学
@@ -39,6 +45,7 @@
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Guo123&layout=compact&theme=tokyonight)  
+
 [![Ryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryan-Guo123&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
