@@ -35,7 +35,7 @@
 |----------|--------------------------------------|
 | 💻 Programming Basics | Python · Swift · Git/GitHub |
 | 🤖 AI | OpenAI · AI Agents · MCP |
-| 🛠 Project | ha-ai-daily-brief |
+| 🛠 Project | [ha-ai-daily-brief](https://github.com/Ryan-Guo123/ha-ai-daily-brief) |
 
 ---
 
