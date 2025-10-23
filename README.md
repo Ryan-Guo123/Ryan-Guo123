@@ -14,12 +14,20 @@
 - 📷 I love photography, art, cultural creativity, and coming up with weird-but-fun ideas that probably shouldn’t work… but somehow do 😆  
 
 
-
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" />
+  <picture>
+    <!-- 深色模式 -->
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+    <!-- 浅色模式 -->
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+    <!-- 如果浏览器不支持自动切换，就显示浅色版 -->
+    <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph">
+  </picture>
 </div>
 
+
 ---
+
 
 ### 🚀 What I'm Learning / 最近在学
 
