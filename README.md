@@ -65,6 +65,7 @@
 | Platform | Info |
 |----------|----------------------------|
 | 🐙 GitHub | <https://github.com/Ryan-Guo123> |
+| 📧 Email | Ryan-Guo123@email.com |
 | 🌐 Website / Blog | *Under construction... / 正在建设中...* |
 
 ---
