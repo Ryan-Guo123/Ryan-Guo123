@@ -1,50 +1,69 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Ryan</h1>
-<h3 align="center">🌱 Beginner Programmer | 🤖 AI Explorer | 🎨 Creative Thinker</h3>
+<div align="center">
+  <h1>Hi, I'm Ryan 👋</h1>
+  <h3>Student Developer | Product Builder | AI Enthusiast</h3>
+
+  <p>
+    <em>Think First, Build Beyond.</em>
+  </p>
+
+  <a href="mailto:Ryan-Guo123.mail@proton.me">
+    <img src="https://img.shields.io/badge/Email-Me-333333?style=flat-square&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.thinkfirstapp.com/">
+    <img src="https://img.shields.io/badge/StartUp-ThinkFirst-black?style=flat-square&logo=vercel&logoColor=white" alt="ThinkFirst Website" />
+  </a>
+</div>
 
 ---
 
-### 🧑‍🎓 About Me / 关于我
+### 🧑‍💻 About Me
 
-- 🇦🇺 I'm a high school student in Australia  
-- 🐣 A **beginner in programming**, currently learning Python · Swift · Web · CS50  
-- 🤖 Passionate about **Artificial Intelligence & Creative Technology**  
-- 🌏 I’m originally from China, so I speak **Chinese & English**  🇨🇳 🇦🇺
-- 🎯 Learning step by step and dreaming big — one day I hope to study at the University of Melbourne and create my very own AI projects 💻✨  
-- 📷 I love photography, art, cultural creativity, and coming up with weird-but-fun ideas that probably shouldn’t work… but somehow do 😆  
-
+- 🇦🇺 **Based in Australia** | High School Student (Year 9 -> 10).
+- ⚡ **Vibe Coding:** I use AI tools and modern frameworks to prototype ideas rapidly.
+- 🔭 **Currently Building:** 
+  - **[ThinkFirst](https://www.thinkfirstapp.com/):** Turn Messy Ideas into Logic Maps.
+  - **Open Source:** Experimental scripts and diverse AI prototypes.
+- 🎯 **Goal:** Aiming for top-tier universities while building my own products.
 
 <div align="center">
   <picture>
-    <!-- 深色模式 -->
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-    <!-- 浅色模式 -->
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
-    <!-- 如果浏览器不支持自动切换，就显示浅色版 -->
     <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph">
   </picture>
 </div>
 
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Type & Tech |
+| :--- | :--- | :--- |
+| **🧠 ThinkFirst**<br>*(Open Source Core)* | **Socratic Logic Engine**<br>The open-source prototype of the questioning logic.<br>🚀 *Building the full SaaS version at [thinkfirstapp.com](https://www.thinkfirstapp.com/)* | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)<br>![Status](https://img.shields.io/badge/Status-Prototype-orange) |
+| **📰 HA Daily Brief**<br>*(Experimental)* | **AI News Anchor (PoC)**<br>A Proof-of-Concept script to generate custom news briefings for Home Assistant media players. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)<br>![Status](https://img.shields.io/badge/Status-Experimental-yellow) |
 
 ---
 
+### 🛠️ Stack
 
-### 🚀 What I'm Learning / 最近在学
+I focus on tools that help me build and deploy products quickly.
 
-| 技术方向 | 内容 |
-|----------|--------------------------------------|
-| 💻 Programming Basics | Python · Swift · Git/GitHub |
-| 🤖 AI | OpenAI · AI Agents · MCP |
-| 🛠 Project | [ha-ai-daily-brief](https://github.com/Ryan-Guo123/ha-ai-daily-brief) |
+<div align="left">
 
----
+**Product Building (Web & SaaS):**
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 
-### 🛠 Tech & Tools / 会一点点的工具
+**Core Scripting & AI:**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" />
 
-| Languages | Tools | AI & Others |
-|-----------|--------------------|-----------------------------|
-| Python · C · Swift | VS Code · GitHub · Git · Docker · OrbStack | Claude Code · Ollama |
-| *Learning...* | Figma · Canva · DaVinci Resolve · Obsidian | MCP · Agents |
+</div>
 
 ---
 
@@ -52,23 +71,6 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Guo123&layout=compact&theme=tokyonight)  
-
 [![Ryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryan-Guo123&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-### 📫 Connect with Me
-
-| Platform | Info |
-|----------|----------------------------|
-| 🐙 GitHub | <https://github.com/Ryan-Guo123> |
-| 📧 Email | Ryan-Guo123@email.com |
-| 🌐 Website / Blog | *Under construction... / 正在建设中...* |
-
----
-
-⭐ *If you like my journey or projects, feel free to follow or star!  
-要是喜欢我的作品，点个 Star 或 Follow 就是最大的鼓励！*
