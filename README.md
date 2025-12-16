@@ -71,6 +71,11 @@ I focus on tools that help me build and deploy products quickly.
 
 <div align="center">
 
+
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=23662&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)
+
+
 [![Ryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryan-Guo123&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
