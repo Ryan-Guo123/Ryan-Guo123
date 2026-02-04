@@ -1,81 +1,76 @@
 <div align="center">
-  <h1>Hi, I'm Ryan 👋</h1>
-  <h3>Student Developer | Product Builder | AI Enthusiast</h3>
+  <h1>Ryan Guo</h1>
+  <h3>Founder @Latent-Hack | Product Builder | 15yo Developer</h3>
 
-  <p>
-    <em>Think First, Build Beyond.</em>
-  </p>
+  <br />
 
-  <a href="mailto:Ryan-Guo123.mail@proton.me">
-    <img src="https://img.shields.io/badge/Email-Me-333333?style=flat-square&logo=protonmail&logoColor=white" alt="Email" />
+  <h2>"Building in the Latent Space."</h2>
+
+  <br />
+
+  <a href="mailto:ryan@aq16.org">
+    <img src="https://img.shields.io/badge/Email-ryan%40aq16.org-black?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.thinkfirstapp.com/">
-    <img src="https://img.shields.io/badge/StartUp-ThinkFirst-black?style=flat-square&logo=vercel&logoColor=white" alt="ThinkFirst Website" />
+  <a href="https://github.com/Latent-Hack">
+    <img src="https://img.shields.io/badge/Org-Latent%20Hacks-black?style=flat-square&logo=github&logoColor=white" alt="Latent Hacks Org" />
   </a>
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 The Profile
 
-- 🇦🇺 **Based in Australia** | High School Student (Year 9 -> 10).
-- ⚡ **Vibe Coding:** I use AI tools and modern frameworks to prototype ideas rapidly.
-- 🔭 **Currently Building:** 
-  - **[ThinkFirst](https://www.thinkfirstapp.com/):** Turn Messy Ideas into Logic Maps.
-  - **Open Source:** Experimental scripts and diverse AI prototypes.
-- 🎯 **Goal:** Aiming for top-tier universities while building my own products.
+I am a builder based in **Australia**.
+I explore the intersection of **Structured Logic** and **Generative Aesthetics**. I don't just write code; I orchestrate AI agents to turn philosophy into shipping products.
+
+- ⚡ **Core Philosophy:** **AQ (Aesthetic Quotient) > IQ** in the age of AI.
+- 🔭 **Primary Focus:**
+  - **[Latent Hacks](https://hack.aq16.org):** Exploring the *Latent Space* of **Human Aesthetics**. (Non-Profit)
+  - **[ThinkFirst](https://www.thinkfirstapp.com/):** Mapping the *Latent Space* of **Human Logic**. (SaaS)
 
 <div align="center">
+  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
     <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph">
   </picture>
+  <br />
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 The Portfolio
 
-| Project | Description | Type & Tech |
+| Project | Role | Concept & Stack |
 | :--- | :--- | :--- |
-| **🧠 ThinkFirst**<br>*(Open Source Core)* | **Socratic Logic Engine**<br>The open-source prototype of the questioning logic.<br>🚀 *Building the full SaaS version at [thinkfirstapp.com](https://www.thinkfirstapp.com/)* | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)<br>![Status](https://img.shields.io/badge/Status-Prototype-orange) |
-| **📰 HA Daily Brief**<br>*(Experimental)* | **AI News Anchor (PoC)**<br>A Proof-of-Concept script to generate custom news briefings for Home Assistant media players. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)<br>![Status](https://img.shields.io/badge/Status-Experimental-yellow) |
+| **Latent Hacks**<br>*(Founder)* | **The Aesthetic Engine**<br>Built the dual-site architecture for the world's first Aesthetic RLHF exhibition.<br>✨ *Fiscally sponsored by Hack Club Bank (501c3).*<br>🌐 [hack.aq16.org](https://hack.aq16.org) • [aq16.org](https://aq16.org) | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)  |
+| **ThinkFirst**<br>*(Creator)* | **The Logic Engine**<br>A SaaS tool turning messy thoughts into structured maps using recursive AI questioning.<br>🚀 [thinkfirstapp.com](https://www.thinkfirstapp.com/) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 ---
 
-### 🛠️ Stack
+### 🛠️ The Stack
 
-I focus on tools that help me build and deploy products quickly.
+Tools that allow high-velocity building in the latent space.
 
 <div align="left">
 
-**Product Building (Web & SaaS):**
+**Ship Fast (Web & Systems):**
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 
-**Core Scripting & AI:**
+**Think Deep (Agents & Data):**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" />
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-
-
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=23662&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)
-
-
-[![Ryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryan-Guo123&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryan-Guo123&theme=github-compact" alt="Ryan's Activity Graph" />
 </div>
