@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ryan Guo</h1>
-  <h3>Founder @Latent-Hack | Product Builder | 15yo Developer</h3>
+  <h3>Founder @Latent-Hacks | Product Builder | 15yo Developer</h3>
 
   <br />
 
@@ -11,7 +11,7 @@
   <a href="mailto:ryan@aq16.org">
     <img src="https://img.shields.io/badge/Email-ryan%40aq16.org-black?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Latent-Hack">
+  <a href="https://github.com/Latent-Hacks">
     <img src="https://img.shields.io/badge/Org-Latent%20Hacks-black?style=flat-square&logo=github&logoColor=white" alt="Latent Hacks Org" />
   </a>
 </div>
@@ -44,8 +44,8 @@ I explore the intersection of **Structured Logic** and **Generative Aesthetics**
 
 | Project | Role | Concept & Stack |
 | :--- | :--- | :--- |
-| **Latent Hacks**<br>*(Founder)* | **The Aesthetic Engine**<br>Built the dual-site architecture for the world's first Aesthetic RLHF exhibition.<br>✨ *Fiscally sponsored by Hack Club Bank (501c3).*<br>🌐 [hack.aq16.org](https://hack.aq16.org) • [aq16.org](https://aq16.org) | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)  |
-| **ThinkFirst**<br>*(Creator)* | **The Logic Engine**<br>A SaaS tool turning messy thoughts into structured maps using recursive AI questioning.<br>🚀 [thinkfirstapp.com](https://www.thinkfirstapp.com/) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Latent Hacks** | **The Aesthetic Engine**<br>Built the dual-site architecture for the world's first Aesthetic RLHF exhibition.<br>✨ *Fiscally sponsored by Hack Club Bank (501c3).*<br>🌐 [latenthacks.com](https://www.latenthacks.com/) • [aq16.org](https://aq16.org) | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)  |
+| **ThinkFirst** | **The Logic Engine**<br>A SaaS tool turning messy thoughts into structured maps using recursive AI questioning.<br>🚀 [thinkfirstapp.com](https://www.thinkfirstapp.com/) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 ---
 
