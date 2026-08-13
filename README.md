@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ryan Guo</h1>
-  <h3>Founder @Latent-Hacks | Product Builder | 15yo Developer</h3>
+  <h3>Founder @Latent-Hacks </h3>
 
   <br />
 
