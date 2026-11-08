@@ -8,11 +8,12 @@ I'm Ryan. I started **The Age of Aesthetic Intelligence** when I was 15.
 
 It's an art and cultural platform about how people notice, judge, choose and make meaning while technology keeps changing. We call that ability aesthetic intelligence: the other AI. I think it's the most important thing a person can have right now, and it stays yours whatever tools you use.
 
-[Website](https://www.aestheticintelligence.ai/?utm_source=github&utm_medium=social) &nbsp;·&nbsp;
+[ryan-guo.com](https://ryan-guo.com) &nbsp;·&nbsp;
+[aestheticintelligence.ai](https://www.aestheticintelligence.ai/?utm_source=github&utm_medium=social) &nbsp;·&nbsp;
 [Instagram](https://www.instagram.com/aestheticintelligence.ai/) &nbsp;·&nbsp;
 [YouTube](https://www.youtube.com/@TheAgeofAestheticIntelligence) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/ryan-guo123/) &nbsp;·&nbsp;
-[ryan@aestheticintelligence.ai](mailto:ryan@aestheticintelligence.ai)
+[hello@ryan-guo.com](mailto:hello@ryan-guo.com)
 
 <br />
 
