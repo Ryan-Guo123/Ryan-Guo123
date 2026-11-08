@@ -19,6 +19,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SETTING_JSON: .github/profile-3d-settings.json
           USERNAME: Ryan-Guo123  # 也可以用默认：${{ github.repository_owner }}
 
       - name: Commit & Push
