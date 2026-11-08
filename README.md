@@ -1,76 +1,46 @@
-<div align="center">
-  <h1>Ryan Guo</h1>
-  <h3>Founder @Latent-Hacks </h3>
+<a href="https://www.aestheticintelligence.ai/?utm_source=github&utm_medium=social">
+  <img src="./assets/banner.jpg" alt="Ryan Guo, founder of The Age of Aesthetic Intelligence" width="100%" />
+</a>
 
-  <br />
+<br />
 
-  <h2>"Building in the Latent Space."</h2>
+I'm Ryan. I started **The Age of Aesthetic Intelligence** when I was 15.
 
-  <br />
+It's an art and cultural platform about how people notice, judge, choose and make meaning while technology keeps changing. We call that ability aesthetic intelligence: the other AI. I think it's the most important thing a person can have right now, and it stays yours whatever tools you use.
 
-  <a href="mailto:ryan@aq16.org">
-    <img src="https://img.shields.io/badge/Email-ryan%40aq16.org-black?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Latent-Hacks">
-    <img src="https://img.shields.io/badge/Org-Latent%20Hacks-black?style=flat-square&logo=github&logoColor=white" alt="Latent Hacks Org" />
-  </a>
-</div>
+[Website](https://www.aestheticintelligence.ai/?utm_source=github&utm_medium=social) &nbsp;·&nbsp;
+[Instagram](https://www.instagram.com/aestheticintelligence.ai/) &nbsp;·&nbsp;
+[YouTube](https://www.youtube.com/@TheAgeofAestheticIntelligence) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/ryan-guo123/) &nbsp;·&nbsp;
+[ryan@aestheticintelligence.ai](mailto:ryan@aestheticintelligence.ai)
 
----
+<br />
 
-### 🧑‍💻 The Profile
+### The Age of Aesthetic Intelligence: Who Am I?
 
-I am a builder based in **Australia**.
-I explore the intersection of **Structured Logic** and **Generative Aesthetics**. I don't just write code; I orchestrate AI agents to turn philosophy into shipping products.
+Our first project is a global touring exhibition of interactive art made by creators aged 13-18.
 
-- ⚡ **Core Philosophy:** **AQ (Aesthetic Quotient) > IQ** in the age of AI.
-- 🔭 **Primary Focus:**
-  - **[Latent Hacks](https://hack.aq16.org):** Exploring the *Latent Space* of **Human Aesthetics**. (Non-Profit)
-  - **[ThinkFirst](https://www.thinkfirstapp.com/):** Mapping the *Latent Space* of **Human Logic**. (SaaS)
+My generation is the first to grow up with AI. It can make almost anything, and sometimes that makes it harder to tell what's really ours. So the old question comes back: who am I? The exhibition asks teens to answer it in their own work, using AI as one tool among many, with their own eye.
 
-<div align="center">
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
-    <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph">
-  </picture>
-  <br />
-</div>
+- Free from start to finish, and open to creators aged 13-18 anywhere in the world.
+- Selected creators get a production grant of up to US$2,000 to finish their work, and compete for awards of up to US$10,000.
+- Selected works are shown online and in art museums around the world.
 
----
+**[Take part →](https://www.aestheticintelligence.ai/who-am-i?utm_source=github&utm_medium=social)**
 
-### 🚀 The Portfolio
+<br />
 
-| Project | Role | Concept & Stack |
-| :--- | :--- | :--- |
-| **Latent Hacks** | **The Aesthetic Engine**<br>Built the dual-site architecture for the world's first Aesthetic RLHF exhibition.<br>✨ *Fiscally sponsored by Hack Club Bank (501c3).*<br>🌐 [latenthacks.com](https://www.latenthacks.com/) • [aq16.org](https://aq16.org) | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)  |
-| **ThinkFirst** | **The Logic Engine**<br>A SaaS tool turning messy thoughts into structured maps using recursive AI questioning.<br>🚀 [thinkfirstapp.com](https://www.thinkfirstapp.com/) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+### Building it
 
----
+I build the website with AI coding agents. It runs on Next.js, React and WebGL.
 
-### 🛠️ The Stack
+The platform has more than US$25,000 in donated software, hardware and services from companies including Canva and monday.com, and is fiscally sponsored by [The Hack Foundation](https://hcb.hackclub.com/latent-hacks). It was previously called Latent Hacks.
 
-Tools that allow high-velocity building in the latent space.
+<br />
 
-<div align="left">
+### Other things I've made
 
-**Ship Fast (Web & Systems):**
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-
-**Think Deep (Agents & Data):**
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryan-Guo123&theme=github-compact" alt="Ryan's Activity Graph" />
-</div>
+- [**ThinkFirst**](https://github.com/Ryan-Guo123/ThinkFirst): a Socratic AI coach that questions your reasoning instead of doing the work for you. Live at [thinkfirstapp.com](https://www.thinkfirstapp.com/).
+- [**relay-codex**](https://github.com/Ryan-Guo123/relay-codex): handoff notes on GitHub for long-running AI coding work.
+- [**project-as-school**](https://github.com/Ryan-Guo123/project-as-school): a school model where each term is one real project.
+- [**ha-ai-daily-brief**](https://github.com/Ryan-Guo123/ha-ai-daily-brief): a Home Assistant integration that turns your RSS feeds into a spoken daily news brief.
